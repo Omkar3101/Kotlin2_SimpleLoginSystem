@@ -27,9 +27,9 @@ https://github.com/Omkar3101/Kotlin2_SimpleLoginSystem.git
 * The system will validate your credentials.
 
 ## Code Overview
-Markdown
 
-'''kotlin
+```kotlin
+//Hardcoded Credentials
 fun main() {
     println("Welcome to FRAIND")
     println("Login here!")
@@ -45,8 +45,8 @@ fun main() {
     //Give Output
     println(condition)
 }
-*/
 
+//Multiple Users Support
 fun main() {
     println("Welcome to FRAIND")
     println("Login here!")
@@ -60,7 +60,7 @@ fun main() {
 
     //Inputs from Users
     println("Enter your Username: ")
-    val userName = readLi* ne() ?: ""
+    val userName = readLine() ?: ""
     println("Enter your Password: ")
     val password = readLine() ?: ""
 
@@ -70,6 +70,7 @@ fun main() {
     //Output
     println(condition)
 }
+```
 
 ## Future Improvement
 * **Secure password handling** using hashing
