@@ -1,5 +1,5 @@
 # SimpleLoginSystem
-A basic login system built using Kotlin that takes **username** and **password** as input and verifies the credentials.
+A basic login system built using Kotlin that takes **username** and **password** as input and verifies the credentials. This project is part of my Kotlin learning journey.
 
 ## Features
 1. Takes user input for username and password.
