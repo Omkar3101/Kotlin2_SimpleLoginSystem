@@ -78,7 +78,7 @@ fun main() {
 * **Graphical UI version** instead of console-based
 
 ## License
-
+This project is licensed under the MIT License – see the [LICENSE]() file for details.
 
 ## Let's Connect 
 * Linkedin : https://www.linkedin.com/in/omkar3101
