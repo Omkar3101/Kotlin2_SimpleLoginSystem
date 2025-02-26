@@ -78,8 +78,8 @@ fun main() {
 * **Graphical UI version** instead of console-based
 
 ## License
-This project is licensed under the MIT License – see the [LICENSE]() file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Omkar3101/Kotlin2_SimpleLoginSystem/blob/main/LICENSE) file for details.
 
 ## Let's Connect 
-* Linkedin : https://www.linkedin.com/in/omkar3101
-* Github : https://github.com/Omkar3101 
+* [Linkedin](https://www.linkedin.com/in/omkar3101)
+* [Github]( https://github.com/Omkar3101 )
