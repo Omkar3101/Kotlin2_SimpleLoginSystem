@@ -1,5 +1,4 @@
 # SimpleLoginSystem
-
 A basic login system built using Kotlin that takes **username** and **password** as input and verifies the credentials.
 
 ## Features
@@ -31,8 +30,6 @@ https://github.com/Omkar3101/Kotlin2_SimpleLoginSystem.git
 Markdown
 
 '''kotlin
-//Hardcoded Credentials
-/*
 fun main() {
     println("Welcome to FRAIND")
     println("Login here!")
@@ -50,7 +47,6 @@ fun main() {
 }
 */
 
-//Multiple Users Support
 fun main() {
     println("Welcome to FRAIND")
     println("Login here!")
@@ -84,5 +80,5 @@ fun main() {
 
 
 ## Let's Connect 
-Linkedin : https://www.linkedin.com/in/omkar3101
-Github : https://github.com/Omkar3101 
+* Linkedin : https://www.linkedin.com/in/omkar3101
+* Github : https://github.com/Omkar3101 
