@@ -13,4 +13,5 @@ A basic login system built using Kotlin that takes **username** and **password**
 2. **IntelliJ IDEA**
 
 ## How to Run the Project?
-1. **Clone the Repository**
+### Clone the Repository
+https://github.com/Omkar3101/Kotlin2_SimpleLoginSystem.git
